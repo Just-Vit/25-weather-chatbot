@@ -21,7 +21,7 @@ Having completed all of that, you now have a chatbot capable of telling a user c
 Let’s test the bot. Call the chatbot() function and pass in a statement asking what the weather is in a city, for example:
   
  
-    response = chatbot("Is it going to rain in Rome today?")
+    response = chatbot("Is it going to rain in New York today?")
     print(response)
 
 Save and close the file, then run the script in your terminal:
