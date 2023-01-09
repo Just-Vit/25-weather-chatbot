@@ -68,9 +68,7 @@ def chatbot(statement):
 response1 = chatbot("What is the weather in New York?")
 print(response1)       
         
-        
 
-#  ("Is it going to rain in Kiev today?")
 
 
 
